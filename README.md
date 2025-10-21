@@ -1,4 +1,3 @@
-# Big Data Project 2024/2025
 ## Creation of predictive models for the analysis of emotion from audio files
 
 This project aims to create predictive models of emotions from audio files using, where necessary, Spark libraries for parallelization of work.
